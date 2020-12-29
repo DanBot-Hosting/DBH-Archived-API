@@ -1,0 +1,19 @@
+{
+  "name": "daemon",
+  "version": "1.0.0",
+  "description": "Daemon built for DBH",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DanBot-Hosting/DBH.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DanBot-Hosting/DBH/issues"
+  },
+  "homepage": "https://github.com/DanBot-Hosting/DBH#readme"
+}

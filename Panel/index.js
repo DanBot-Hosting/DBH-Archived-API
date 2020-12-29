@@ -4,7 +4,7 @@ const Discord = require('discord.js');
 const Josh = require('josh');
 const provider = require('@josh-providers/sqlite');
 
-const config = require('../config.json');
+const config = require('./config.json');
 
 const restAPI = require('./modules/API');
 const api = new restAPI(config.api.port);
@@ -13,7 +13,6 @@ const api = new restAPI(config.api.port);
 //     name: 'servers',
 //     provider,
 // });
-
 
 const client = new Discord.Client({
     disableMentions: "everyone",

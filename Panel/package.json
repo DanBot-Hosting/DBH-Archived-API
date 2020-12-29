@@ -25,6 +25,7 @@
     "express": "^4.17.1",
     "express-rate-limit": "^5.2.3",
     "josh": "^0.2.1",
-    "memory-cache": "^0.2.0"
+    "memory-cache": "^0.2.0",
+    "nodemon": "^2.0.6"
   }
 }

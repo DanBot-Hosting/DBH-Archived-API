@@ -1,3 +1,4 @@
 # Panel
-/Panel/node_modules
-/Panel/.env
+node_modules
+.env
+config.json

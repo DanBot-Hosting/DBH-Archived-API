@@ -1,3 +1,7 @@
+```
+MORE FILES ARE GETTING ADDED / GETTING CODE IN THEM, IF YOU COPIED THE BOT YOU MAY NEED TO COPY THE CODE FROM THE FILES
+```
+
 DBH
 ------------
                                                                                                                                                 

@@ -8,11 +8,12 @@ const config = require('./config.json');
 
 const restAPI = require('./modules/API');
 const api = new restAPI(config.api.port);
-
-// const serverDB = new Josh({
-//     name: 'servers',
-//     provider,
-// });
+/*
+ const serverDB = new Josh({
+name: 'servers',
+provider,
+ });
+*/
 
 const client = new Discord.Client({
     disableMentions: "everyone",

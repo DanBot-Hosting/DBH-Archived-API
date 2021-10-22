@@ -1,3 +1,8 @@
+##Update
+
+This project is being worked on by [Kyro](https://github.com/kyro3400), he is working hard to make sure that this bot will be the best it can be!
+
+------------
 DBH
 ------------
                                                                                                                                                 
